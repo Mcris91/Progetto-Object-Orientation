@@ -24,5 +24,9 @@ Cartella TestoLatex contenetente (tutti i file .tex):
 File in Latex (main.tex)
 File in Latex (Capitolo 1.tex)
 
-Cartella (Immagini) contenente i diagrammi effettuati.
+Cartella (Diagrammi) contenente i diagrammi effettuati.
 Logo Unina (FedericoII.png)
+Dominio del problema ()
+Dominio della Soluzione ()
+Primo Sequence Diagram ()
+Secondo Sequence Diagram ()
