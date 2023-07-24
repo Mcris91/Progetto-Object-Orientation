@@ -9,6 +9,10 @@ Overleaf per la documentazione in Latex.
 
 Intellij IDEA versione 2022.2.2.
 
+Star UML per la produzione dei diagrammi sul dominio del problema e dominio della soluzione.
+
+Lucid Chart per la produzione dei diagrammi di sequenza.
+
 E' possibile individuare all'interno di questa repository:
 
 Documentazione contenente (main.pdf):
