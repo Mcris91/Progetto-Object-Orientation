@@ -24,6 +24,7 @@ Secondo Sequence Diagram che descrive la ricerca dei top3luoghi e top3soggetti i
 Cartella TestoLatex contenetente (tutti i file .tex):
 
 File in Latex (main.tex).
+
 File in Latex (Capitolo 1.tex).
 
 Cartella (Diagrammi) contenente i diagrammi effettuati:
