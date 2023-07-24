@@ -7,6 +7,7 @@ I software utilizzati sono:
 
 Overleaf per la documentazione in Latex
 Intellij IDEA versione 2022.2.2
+
 E' possibile individuare all'interno di questa repository:
 
 Documentazione contenente (main.pdf):
