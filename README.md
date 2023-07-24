@@ -6,6 +6,7 @@ TRACCIA 2: SISTEMA DI GESTIONE DI UNA GALLERIA FOTOGRAFICA GEOLOCALIZZATA CONDIV
 I software utilizzati sono:
 
 Overleaf per la documentazione in Latex.
+
 Intellij IDEA versione 2022.2.2.
 
 E' possibile individuare all'interno di questa repository:
