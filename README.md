@@ -1,44 +1,72 @@
 # Progetto-Object-Orientation
-Progetto di Basi di Dati di Murano Stefano e Monte Cristian.
+Progetto di Object Orientation di Murano Stefano e Monte Cristian.
 
 TRACCIA 2: SISTEMA DI GESTIONE DI UNA GALLERIA FOTOGRAFICA GEOLOCALIZZATA CONDIVISA
 
 I software utilizzati sono:
 
-Overleaf per la documentazione in Latex.
+  •Overleaf per la documentazione in Latex.
 
-Intellij IDEA versione 2022.2.2.
+  •Intellij IDEA versione 2022.2.2.
 
-Star UML per la produzione dei diagrammi sul dominio del problema e dominio della soluzione.
+  •Star UML per la produzione dei diagrammi sul dominio del problema e dominio della soluzione.
 
-Lucid Chart per la produzione dei diagrammi di sequenza.
+  •Lucid Chart per la produzione dei diagrammi di sequenza.
+
+APPLICATIVO:
+
+File contente l'applicativo assegnato, persente nel file .zip:
+
+•(GalleriaFotograficaGeolocalizzata.zip)
 
 E' possibile individuare all'interno di questa repository:
 
-Documentazione contenente (main.pdf):
+Documentazione contenente (Documentazione.pdf):
 
 Documento di Design dell'applicativo:
 
-Diagramma Dominio del problema dell'applicativo.
+  •Diagramma Dominio del problema dell'applicativo.
 
-Primo Sequence Diagram che descrive l'operazione di login da parte dell'utente.
+  •Diagramma del Dominio della Soluzione dell'applicativo
+  
+  •Primo Sequence Diagram che descrive l'operazione di login da parte dell'utente.
 
-Secondo Sequence Diagram che descrive la ricerca dei top3luoghi e top3soggetti immortalati da parte dell'utente.
+  •Secondo Sequence Diagram che descrive l'operazione di filtraggio delle foto per luogo o per soggetto da parte dell'utente.
 
-Cartella TestoLatex contenetente (tutti i file .tex):
+Cartella Latex contenetente (tutti i file .tex):
 
-File in Latex (main.tex).
+  •File in Latex (main.tex).
 
-File in Latex (Capitolo 1.tex).
+  •File in Latex (Capitolo 1.tex).
 
 Cartella (Diagrammi) contenente i diagrammi effettuati:
 
-Logo Unina (FedericoII.png).
+  •Dominio del problema (DominioDelProblema.png).
 
-Dominio del problema ().
+  •Dominio della Soluzione (Modello della Soluzione Del Problema.jpg).
 
-Dominio della Soluzione ().
+  •Primo Sequence Diagram (Sequence1.png): Diagramma di sequenza che definisce l'operazione di login da parte dell'utente.
 
-Primo Sequence Diagram ().
+  •Secondo Sequence Diagram (Sequence2.png): Diagramma di sequenza che definisce l'operazione difiltraggio di una foto per luogo o per soggetto da parte 
+    dell'utente.
 
-Secondo Sequence Diagram ().
+Cartella (Spiegazione Schermate), contiente al suo interno tutte le GUI presenti nel programma e le eventuali funzionalità:
+
+File presenti all'interno:
+
+  •(Schermata Creazione Galleria Condivisa.jpeg).
+
+  •(Schermata Inserimento Foto.jpeg).
+
+  •(Schermata Login.jpeg).
+
+  •(Schermata Registrazione.jpeg).
+
+  •(Schermata Ricerca Foto.jpeg).
+
+  -(Schermata Utente.jpeg).
+
+  -(Schermata Visualizzazione Fotografia.jpeg).
+
+  -(Schermata Visualizzazione Galleria Condivisa.jpeg).
+
